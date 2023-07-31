@@ -1,0 +1,6 @@
+.lock
+.toml
+.replit
+.nix
+.breakpoints
+venv/
